@@ -1,0 +1,5 @@
+.custom-vessel-icon {
+  transform-origin: center center;
+  transition: transform 0.5s linear;
+  height: 70px;
+}
